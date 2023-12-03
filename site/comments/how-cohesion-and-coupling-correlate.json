@@ -1,5 +1,11 @@
 {
-  "comments": [{
+  "comments": [
+    {
+    "author": "Matt Browne",
+    "createdAt": "2023-12-03",
+    "body": "Excellent article, thank you for this! It helped me clarify the how increasing cohesion reduces coupling. I also found another article that helped further clarify it that I wanted to share: https://thevaluable.dev/single-responsibility-principle-revisited/"
+    },    
+    {
     "author": "Nikola",
     "createdAt": "2021-03-02",
     "body": "Just wanted to thank you for your take on software cohesion. Many articles on this topic throw around concepts like SRP and separation of concerns and remain foggy in their description of the relationship with cohesion. You, on the other hand, systematically approach the subject and try to demystify the semantic aspect of cohesion from various perspectives. Well done!"
